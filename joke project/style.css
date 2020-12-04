@@ -1,0 +1,37 @@
+body{
+	background-color:orange;
+}
+
+.main{
+    background-color:white;
+	text-align:left;
+    color:purple;
+    font-size:20px;
+	margin-top:110px;
+	margin-left: 37%;
+	margin-right: 34%;
+	padding-top:7px;
+	padding-bottom:5px;
+	padding-left:25px;
+	padding-right:25px;
+	border: 1px solid orange;
+}
+
+.previous{
+    margin-left:56.5%;
+	color:red;
+}
+
+.previous1{
+    margin-left:60.5%;
+	color:red;
+}
+
+.next{
+	color:green;
+}
+
+.next1{
+	margin-left:62.5%;
+	color:green;
+}
